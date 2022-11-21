@@ -1,4 +1,4 @@
-# Research Articles
+# ResearchArticles
 This page includes a collection of papers recommended for reading to those interested in studying Applications of Machine Learning in healthcare monitoring systems and Internet of Things (IoT) security. 
 
 ### IoT Security
