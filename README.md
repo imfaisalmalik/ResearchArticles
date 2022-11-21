@@ -1,4 +1,4 @@
-# ResearchArticles
+# Research Articles
 This page includes a collection of papers recommended for reading to those interested in studying Applications of Machine Learning in healthcare monitoring systems and Internet of Things (IoT) security. 
 
 ### IoT Security
@@ -13,3 +13,7 @@ This page includes a collection of papers recommended for reading to those inter
 - 2019 IEEE Sensors Journal (IF = 3.301) [Activity-aware fall detection and recognition based on wearable sensors](https://ieeexplore.ieee.org/abstract/document/8641383/)
 - 2019 Arxiv [Efficient Machine Learning-based Elderly Fall Detection Algorithm](https://arxiv.org/pdf/1911.11976)
 - 2018 ACM UbiComp'18 [Elderly Assistance Using Wearable Sensors by Detecting Fall and Recognizing Fall Patterns](https://dl.acm.org/doi/pdf/10.1145/3267305.3274129)
+
+
+
+If you are interested to read more articles, please visit my [Google Scholar Profile](https://scholar.google.com/citations?user=yQ0pnKEAAAAJ&hl=en)
